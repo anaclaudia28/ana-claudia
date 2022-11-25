@@ -4,7 +4,7 @@
 <title><strong>MEIO AMBIENTE</title><strong>
 </head>
 <body>
-<strong>10 maneiras de preservar o meio ambiente</strong>
+<strong>17 Maneiras de preservar o meio ambiente</strong>
 <p> 1-Preserve as árvores.
 <p> 2-Cuide bem dos cursos de água.
 <p>3-Não pesque em épocas de reprodução e obedeça às regras que indicam a quantidade de pescado permitida. 
@@ -21,5 +21,5 @@
 <p>14-Separe o lixo em recicláveis e não recicláveis.
 <p>15-Evite contribuir para a poluição sonora e visual do ambiente em que você vive.
 <p>16-Acenda as luzes apenas quando necessário, prefira utilizar a luz do Sol sempre que for possível.
-<p>16-Utilize da regra dos 3 R: reduza, reuse e recicle seu lixo.
+<p>17-Utilize da regra dos 3 R: reduza, reuse e recicle seu lixo.
 <strong>LEMBRE-SE O MEIO AMBIENTE PRESCISA DE VOCÊ<strong>
